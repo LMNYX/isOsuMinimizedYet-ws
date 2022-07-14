@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isOsuMinimizedYet", "isOsuMinimizedYet\isOsuMinimizedYet.csproj", "{B8C400C4-89C3-4B6C-B1D6-B592DC4F3F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C400C4-89C3-4B6C-B1D6-B592DC4F3F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C400C4-89C3-4B6C-B1D6-B592DC4F3F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C400C4-89C3-4B6C-B1D6-B592DC4F3F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C400C4-89C3-4B6C-B1D6-B592DC4F3F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FEACDA-31BD-4CB5-83D8-A3CD0109A8D3}
+	EndGlobalSection
+EndGlobal
